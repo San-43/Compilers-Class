@@ -1,0 +1,6 @@
+correcto1@example.com
+usuario.123@dominio.net
+nombre-apellido@empresa.org
+correo_invalido@@dominio.com
+otro.usuario@correo.edu
+test+alias@servidor.co.uk
