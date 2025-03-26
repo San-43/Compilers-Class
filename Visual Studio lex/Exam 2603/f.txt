@@ -7,11 +7,6 @@
     de
     varias
     lineas
-    *
-*/
-/*
-
-asdasdasda //sadasd
 */
 
 int main() {
